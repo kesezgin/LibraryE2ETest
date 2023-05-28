@@ -4,7 +4,7 @@
 >- The project has been prepared based on Cucumber BDD style.    
 >- Maven build management tool is used in this project by Java language.
 >- In the project that includes one scenario that ability of the Librarian user to edit a book
->- For the test, the librarian logs in and update the information about a book. Then, both API and database is checked if the book is updated. 
+>- For the test, the librarian logs in and updates the information about a book in UI. Then, both API and database is checked if the book is updated. 
 >- A special tag(`@ui`,`@api`, and`@db`) was used in the project. Thus, the desired feature can be run in Runner.
 
 ##### HOW TO RUN TESTS
